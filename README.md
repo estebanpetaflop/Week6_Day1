@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Yoooo, bienvenue sur notre site Eventbrite !
 
-Things you may want to cover:
+Après un bundle install un rails db:drop un rails db:create un rails db:migrate et un rails db:seed, rendez vous sur esteban@yopmail.com et misa@yopmail.com pour voir l'envoi des emails.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bonne correction à demain :)
